@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VMTestQemuProp</string>
+    <string name="ptrace">ptrace</string>
+</resources>
